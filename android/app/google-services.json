@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322581230354",
+    "firebase_url": "https://uber-ola-and-indriver-cl-38d41-default-rtdb.firebaseio.com",
+    "project_id": "uber-ola-and-indriver-cl-38d41",
+    "storage_bucket": "uber-ola-and-indriver-cl-38d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322581230354:android:cd5536a44f6c8d9cd7b9cb",
+        "android_client_info": {
+          "package_name": "com.example.flutterola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322581230354-od2qn3r9dn0tsj49qgfb7f09dj1hjlh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv95L0Vz8g3To2CjJXcVBRbir5FzX3BB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322581230354-od2qn3r9dn0tsj49qgfb7f09dj1hjlh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
